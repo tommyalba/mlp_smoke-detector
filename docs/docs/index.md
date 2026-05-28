@@ -8,10 +8,10 @@ The project utilizes Machine Learning approach. Specifically using Decision Tree
 ## Guideline
 Take a look at the [Getting Started](./start.md) page, where you'll find installation guidelines to use this project at your local machine.
 
-For more information, you can check the [Github Repository](https://github.com/gntmm/mlp_smoke-detector)
+For more information, you can check the [Github Repository](https://github.com/tommyalba/mlp_smoke-detector)
 
 ---
 
-**Author:** [gntmm](https://github.com/gntmm/)
+**Author:** [tommyalba](https://github.com/tommyalba/)
 
 **Last Update:** 30/06/2025
